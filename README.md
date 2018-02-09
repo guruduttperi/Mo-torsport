@@ -1,7 +1,7 @@
-# Mo-torsport
+# Mötorsport
 An iOS app for motorsport enthusiasts. The app displays information regarding race tracks around the world.
 
-<b> What Did I Learn ? </b>
+<b> What Did I Learn? </b>
 <ul> 
 <li> Setting up a Table View Controller </li>
 <li> Populating cells within a TableView </li>
