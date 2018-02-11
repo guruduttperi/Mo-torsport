@@ -1,4 +1,7 @@
 # Mötorsport
+
+<img src = "appicon.png" height = 200 width = 200>
+
 An iOS app for motorsport enthusiasts. The app displays information regarding race tracks around the world.
 
 <b> What Did I Learn? </b>
